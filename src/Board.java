@@ -42,6 +42,7 @@ public class Board {
 		for(int i = 0; i < laddersNo; ++i)
 			ladders[i] = new Ladder();
 		
+		// Apples
 		for(int i = 0; i < applesNo; ++i)
 			apples[i] = new Apple();
 	}
