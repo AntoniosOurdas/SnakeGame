@@ -5,6 +5,6 @@ public class HeuristicPlayer extends Player {
 	
 	public HeuristicPlayer() {
 		super();
-		System.out.println("Empty HeuristicPlayer created");
+
 	}
 }
